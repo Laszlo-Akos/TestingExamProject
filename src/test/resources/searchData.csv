@@ -1,0 +1,3 @@
+"word","expected","result"
+"Geaca","Geaca","ExistentProduct"
+"cutit","rau","Inexistent"

@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="64abeddd-22d1-401b-a091-332df51ede77" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/serenity.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ro/ubb/features/all/CartTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ro/ubb/features/all/LoginTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ro/ubb/features/all/SearchTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ro/ubb/features/all/package-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ro/ubb/pages/HomePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ro/ubb/pages/ProductPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ro/ubb/steps/serenity/EndUserSteps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/features/search/narrative.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/searchData.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/windows/chromedriver.exe" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2oo2b5r0gg2WT2JXxRBmZ88fYmk" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "JUnit.CartTest.executor": "Run",
+    "JUnit.FeaturesTest.addItemToCart.executor": "Run",
+    "JUnit.FeaturesTest.executor": "Run",
+    "JUnit.FeaturesTest.search_Product.executor": "Run",
+    "JUnit.LoginTest.executor": "Run",
+    "JUnit.SearchByKeywordStory.DeleteFromCart.executor": "Run",
+    "JUnit.SearchByKeywordStory.addItemToCart.executor": "Run",
+    "JUnit.SearchByKeywordStory.executor": "Run",
+    "JUnit.SearchByKeywordStory.search_existentProduct.executor": "Run",
+    "JUnit.SearchByKeywordStory.search_nonExistentProduct.executor": "Run",
+    "JUnit.SearchTest.executor": "Run",
+    "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
+    "Maven.ProiectBiker [serenity:aggregate].executor": "Run",
+    "Maven.ProiectBiker [serenity:reports].executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/Egyetem/INFO/Testare/Lab/ProiectBiker/src/test/resources/windows",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Egyetem\INFO\Testare\Lab\ProiectBiker\src\test\resources\windows" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn serenity:reports" />
+      <command value="mvn serenity:aggregate" />
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="LoginTest.DeleteFromCart" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ProiectBiker" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ro.ubb.features.all.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ro.ubb.features.search" />
+      <option name="MAIN_CLASS_NAME" value="ro.ubb.features.all.LoginTest" />
+      <option name="METHOD_NAME" value="DeleteFromCart" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoginTest.addItemToCart" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ProiectBiker" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ro.ubb.features.all.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ro.ubb.features.search" />
+      <option name="MAIN_CLASS_NAME" value="ro.ubb.features.all.LoginTest" />
+      <option name="METHOD_NAME" value="addItemToCart" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SearchTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ProiectBiker" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ro.ubb.features.all.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ro.ubb.features.search" />
+      <option name="MAIN_CLASS_NAME" value="ro.ubb.features.all.SearchTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SearchTest.addItemToCart" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ProiectBiker" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ro.ubb.features.all.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ro.ubb.features.search" />
+      <option name="MAIN_CLASS_NAME" value="ro.ubb.features.all.SearchTest" />
+      <option name="METHOD_NAME" value="addItemToCart" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SearchTest.search_Product" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ProiectBiker" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ro.ubb.features.all.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ro.ubb.features.search" />
+      <option name="MAIN_CLASS_NAME" value="ro.ubb.features.all.SearchTest" />
+      <option name="METHOD_NAME" value="search_Product" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.SearchTest" />
+        <item itemvalue="JUnit.SearchTest.search_Product" />
+        <item itemvalue="JUnit.SearchTest.addItemToCart" />
+        <item itemvalue="JUnit.LoginTest.DeleteFromCart" />
+        <item itemvalue="JUnit.LoginTest.addItemToCart" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-1.8.0_402-corretto-1.8.0_402-4caba194b151-ae57be32" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="64abeddd-22d1-401b-a091-332df51ede77" name="Changes" comment="" />
+      <created>1731521679150</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1731521679150</updated>
+      <workItem from="1731521680352" duration="1798000" />
+      <workItem from="1731590661538" duration="6217000" />
+      <workItem from="1731614409296" duration="4050000" />
+      <workItem from="1731676437791" duration="1394000" />
+      <workItem from="1731686503307" duration="9000" />
+      <workItem from="1731827520229" duration="9970000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
